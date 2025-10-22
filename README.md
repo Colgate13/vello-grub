@@ -93,4 +93,3 @@ This project is open source and available under the MIT License.
 - Based on [Dracula GRUB](https://github.com/dracula/grub)
 - Inspired by [GRUB Themes](https://github.com/svlv/grub-themes)
 - Fonts: DotGothic16, Roboto Condensed
-- Created with love for the Linux community
